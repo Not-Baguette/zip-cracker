@@ -1,5 +1,5 @@
 # zip-cracker
-no-nonsense zip bruteforcer, made this because I can't find a working one that is exactly as I wanted
+no-nonsense zip bruteforcer, made this because I can't find a working one that is exactly as I wanted. This will not be actively maintained nor checked, But feel free to put an issue if you have a problem with it, cheers!
 
 ## Known issues
 - "kCe" will generate an error `zlib.error: Error -3 while decompressing data: invalid distance too far back`
