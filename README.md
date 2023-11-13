@@ -7,7 +7,7 @@ no-nonsense zip bruteforcer, made this because I can't find a working one that i
 ## How to use
 This script is basically a working core of a zip extractor, But incase any complete beginners or people that are not used to python are here, 
 
-- you basically just install `python`, and run this on cmd
+- basically just install `python`, and run this on cmd
 ```pip install pyzipper```
 
 - Open the script, You will see something like this:
